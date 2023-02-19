@@ -34,7 +34,7 @@ main{
     }
 
     .separator{
-        background-image: url('./pattern-divider-mobile.svg');
+        background-image: url('../../public/pattern-divider-mobile.svg');
         background-repeat: round;
         background-position: left;
         width: 100%;
@@ -101,7 +101,7 @@ main{
         }
 
         .separator{
-            background-image: url('pattern-divider-desktop.svg');
+            background-image: url('../../public/pattern-divider-desktop.svg');
             background-repeat: round;
             background-position: left;
         }
