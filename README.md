@@ -29,5 +29,5 @@ Desktop design:            | Mobile design:           |
   
   <br><br>
 
-  ## <a href = "https://desafio-advice-generator-app-gamma.vercel.app/"> Veja o projeto aqui. </a>
+  ## <a href="https://desafio-advice-generator-app-gamma.vercel.app/"> Veja o projeto aqui. </a>
 </div>
